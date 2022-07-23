@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+.Text{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.Text h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 70px;
+    line-height: 110%;
+    font-weight: 600;
+}
+
+.Text p{
+    font-family: 'Poppins', sans-serif;
+    width: 600px;
+    font-size: 30px;
+}
